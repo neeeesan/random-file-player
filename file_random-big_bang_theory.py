@@ -23,6 +23,4 @@ def rand_file(f):
 
 
 if __name__ == '__main__':
-    # main(folder)
-    # rand_file(f)
     rand_file(f)
