@@ -2,7 +2,9 @@ import os
 import random
 from pathlib import Path
 
+""" Add any extensions that you want to ignore, for example subtitle or readme files """
 ext = (".srt", ".ass", ".sub", ".txt", ".nfo", ".db")
+
 
 """ Replace with the path of the folder you want to play from """
 f = Path(r"D:\Videos\The Big Bang Theory")
